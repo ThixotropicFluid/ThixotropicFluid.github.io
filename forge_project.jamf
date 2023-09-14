@@ -1,9 +1,37 @@
-\# Forge V1
-Recently I have been working on a propane backyard forge. I am doing this as a hobby, and I wanted to document some of the effort that it took to make this project.
-\## Initial Desing
-\### Propane Burner
-The first design I attempted to create was built using a dual venturi burner setup using \[this](https://www.instructables.com/how-to-build-a-gas-forge-burner/) as the main resource for my design. My first burner differed in a few ways: I had two burners, which could be run in either one or two-burner mode using a valve, and my gas was fed through the top.
-\### Main fuselage
+\1 Forge V1
+\i[images/forge_cover_pic.jpg][500][500]
+Recently I have been working on a propane backyard forge. I am doing this as a hobby, and I wanted to document some of the effort that it took to make this project. Unfourntually I dont have pitures of all parts of this desgin, blogging this was an after thought.
+\2 Design and Construction prossess
+My system is comprised of a few different large parts: fuselage, burners, and auxially components. This is all mounted on a wealding table for sturdiness and thermal protection.
+\3 Propane Burner
+The first design I attempted to create was built using a dual venturi burner setup using \l[this][https://www.instructables.com/how-to-build-a-gas-forge-burner/] as the main referance for my design. My first burner differed in a few ways: I had two burners, which could be run in either one or two-burner, and my gas was fed through the top. Outside of the forge this system worked very well:
+[insert venturi burner v1]
+However, once I put the torch into the fuselage I ran into a lot of compustion problems. My flame would sputter, would not maintain a consistent blue flame, and the majority of the propane was ejected from the forge before it could burn. The forge was horribly inefficent. I went through 20lbs of propane per hour almost. This first test also showed me that a togglable second torch was not an option: when the propane expanded and traveled down the burner it would cool the system, without the gas flow active my fittings and hoses were much too hot for safe opertaion.
+To account for these problems I had to redesign both the propane and air intake.
+\4 Propane Manifold
+My first propane maifold was made of 1/4" brass npt pipe. I put a valve in the system so that I could toggle between 1 and 2 burner mode. For the propane nossels I used endcaps with #58 drill holes in the center of them - it was very important to ensure these holes were 90° to the pipe, so I could accuratly aim the propane down the torch.
+This design had a few problems. Since the propane was fed in on one side, one torch would recieve more pressure causing uneven heating. At this point I also learned that a two burner system was not a feasable idea, since heat rises, whichever torch was off would act like chimeny heating the entire system. The plastic gas hose was also getting hot to the touch during when the forge was on. To remedy these problems I fed the gas through the middle of the manifold, removed the valve, added a long nipple to distance the hose from the head, and I switch to 1/8" brass fittings for reasons I will discuss in the next chapter.
+\4 Air Intake
+Air modulation was by far the most difficult of this project. My air intake system went thorgh three main verions, each had their learning expriences attactched to them.
+\5 Venturi Burner Backgorund
+Venturu burners are a type of passive air torches. If you simply inject a stream of propane into the open air it will burn slowly - leading to a cold flame. Venturi burners are desgined to midigate this problem thorgh application of bernoulli's principle. The basic parts the burner are: the injector, a tube, and a nossle. As the propane is injected into the pipe, the fast moving gas causes a low-pressure zone, drawing more air into the system. The propane-air mixture then travels down the tube, allowing it to mix. At the end of the burner, crutially, there is a nossle. This nossle increases the crossectional area of the pipe, causing the propane-air mixture to decelerate, assumung velocity < Mach 1. 
+[Insert Vernturi Burner Diagram]
+To have a well function torch there are many reqirmetns. 
+- The propane must be traveling at a high enough speed to pull sufficent quantites of air into the burner
+- The propane-air mixture must only burn after the nossle
+- There must slighty more air than nessisary for minimal propane waste
+\5 Version 1 - Venturi Intake V1
+My first intake system was made of a 8" x 3/4" nipple and 2 3/4" to 1" inch coupulers. I drilled and tapped three holes in thirds, this would hold the gas manifold. Assembling yeilded:
+[Insert Venturi Intake V1]
+This torch worked well in isolation, however failed misibly once in the forge. It failed in all counts. Most of the fuel started buring to early, and would not complete buring in the forge causing lots of waste.
+The main propblem with this design was the low surface area between the propane nossle and the coupuler that held it.
+\5 Version 2 - Venturi Intake V2t
+My therory for V2 was to maximize the crossectional area that air could flow in with. To achive this I switch out the top coupuler with a T-fitting. During this I also switched from 1/4" to 1/8" brass, this also increases the crossectional area that the air could flow around.
+[Incert Vernturi Intake V2]
+This design was better, however faced the same issures as the fisrt desgin.
+\5 Version 3 - Forced Air
+I am not quite sure why my Venturi burner intakes were inncapable of producing the quatlity of flame I wanted, but I decided to switch gears to a forced air system. 
+\3 Main fuselage
 The main fuselage of the forge is made of a propane tank and various pieces of scrap metal. The forge is lined with 2 layers of 2" kaowool, and coated with a refractory cement (refractory cement turned out to be the incorrect material for this job.) The burner ports are made of two 2" scrap pieces of tube stock.
-
 Due to a head loss problem, I added doors to the front and rear of the forge. This modification dramatically improved the efficiency of my forge; I was not able to get efficiency measurements but I suspect the efficiency improvement was in the range of 100%-200%. In addition, I added a small platform to the from of the forge for resting objects.
+\2 Forge V2 changes
