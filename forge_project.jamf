@@ -30,8 +30,29 @@ My therory for V2 was to maximize the crossectional area that air could flow in 
 \i[images/forge/burner_v2_on_in_forge.jpg][500][500]
 This design was better, however faced the same issures as the fisrt desgin.
 \5 Version 3 - Forced Air
-I am not quite sure why my Venturi burner intakes were inncapable of producing the quatlity of flame I wanted, but I decided to switch gears to a forced air system. 
+I am not quite sure why my Venturi burner intakes were inncapable of producing the quatlity of flame I wanted, but I decided to switch gears to a forced air system. Thankfully this converions was very simple. I disconneted the coupulers at the bottom of the torch, conneted the two T-fittings, pluged one end, and connected the other to a hair dryer, and pluged all other holes with tin foil. I taped the "cold" setting down on the hair dryer to reduce the changes of the hair dryer over heating.
+\i[images/forge/ns_final_air_and_propane.jpg][500][400]
 \3 Main fuselage
 The main fuselage of the forge is made of a propane tank and various pieces of scrap metal. The forge is lined with 2 layers of 2" kaowool, and coated with a refractory cement (refractory cement turned out to be the incorrect material for this job.) The burner ports are made of two 2" scrap pieces of tube stock.
 Due to a head loss problem, I added doors to the front and rear of the forge. This modification dramatically improved the efficiency of my forge; I was not able to get efficiency measurements but I suspect the efficiency improvement was in the range of 100%-200%. In addition, I added a small platform to the from of the forge for resting objects.
-\2 Forge V2 changes
+
+All of my propblems related to this were due to percision. This entire system is held together with shotty weld, hopes, and dreams.
+
+A gallery of build photos:
+\i[images/forge/propane_tank_on_stands.jpg][500][500]
+\i[images/forge/propane_tank_stands.jpg][500][500]
+\i[images/forge/tank_intake_hole.jpg][500][500]
+\i[images/forge/pipes_preweld.jpg][500][500]
+\i[images/forge/refractory.jpg][500][500]
+\i[images/forge/door_stand.jpg][500][500]
+\i[images/forge/forge_final.jpg][500][500]
+\3 Future Version Consiterations
+I think the biggest shortfall of the entire design was the lack of a desgin. Since I was working on a tight budget (~200$ for raw materials,) I worked with a lot of suboptimal material. Knowing what I know now I would:
+- Build a forced air \l[ribbon burner][https://www.youtube.com/watch?v=_BrgjIooH28]
+- Use a forge blower insted of a hair dryer
+- Be more presise in every regard
+- Insted of cutting a hole through the entire propane tank, only cutting one end
+I am happy enough with what I was able to produce, and overall this was a great learing exprience and a great protype development prosses.
+\2 Results
+Using the forge, here are some things I made. I'm still leaning to forge, so things look a little rough.
+
