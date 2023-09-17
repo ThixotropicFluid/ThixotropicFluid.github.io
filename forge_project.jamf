@@ -15,7 +15,7 @@ This design had a few problems. Since the propane was fed in on one side, one to
 Air modulation was by far the most difficult of this project. My air intake system went thorgh three main verions, each had their learning expriences attactched to them.
 \5 Venturi Burner Backgorund
 Venturu burners are a type of passive air torches. If you simply inject a stream of propane into the open air it will burn slowly - leading to a cold flame. Venturi burners are desgined to midigate this problem thorgh application of bernoulli's principle. The basic parts the burner are: the injector, a tube, and a nossle. As the propane is injected into the pipe, the fast moving gas causes a low-pressure zone, drawing more air into the system. The propane-air mixture then travels down the tube, allowing it to mix. At the end of the burner, crutially, there is a nossle. This nossle increases the crossectional area of the pipe, causing the propane-air mixture to decelerate, assumung velocity < Mach 1. 
-\i[images/forge/burner_diagram.png][600][226]
+\i[images/forge/ns_burner_diagram.png][600][226]
 To have a well function torch there are many reqirmetns. 
 - The propane must be traveling at a high enough speed to pull sufficent quantites of air into the burner
 - The propane-air mixture must only burn after the nossle
